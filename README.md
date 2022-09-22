@@ -6,6 +6,6 @@ which can make your DC vulnerable.
 
 You can change the period of inactivity, default to 30 days. 
 
-You can create and or change the Container where the disabled PCs while be moved to, default is "PCDisabled".
+You can create and or change the container to where the disabled PCs while be moved to; default is "PCDisabled".
 
 To automate this script you can add it to Task Scheduler.
